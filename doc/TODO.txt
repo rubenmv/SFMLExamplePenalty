@@ -1,0 +1,6 @@
+* Mejorar el rebote de la bola, que parezca mas realista
+
+* Temporizadores:
+	* Iniciar el juego/soltar pelota
+
+* Poner un fondo mas bonico y porteria

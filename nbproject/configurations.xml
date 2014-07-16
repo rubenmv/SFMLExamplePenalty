@@ -40,6 +40,9 @@
             <pElem>include</pElem>
           </incDir>
         </ccTool>
+        <asmTool>
+          <commandlineTool>as</commandlineTool>
+        </asmTool>
         <linkerTool>
           <linkerAddLib>
             <pElem>lib</pElem>
